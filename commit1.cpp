@@ -1,4 +1,5 @@
-//Este es el primer código que realice mal ya que no era compatible para diferentes datos y plantillas.
+/*Este es el primer código que realice mal ya que no era compatible para diferentes datos y plantillas. No lo alcance a terminar (afortunadamente),
+ pero así es como comence */
 
 #include <iostream>
 #include <string>
